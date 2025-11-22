@@ -33,7 +33,7 @@ Das Ganze soll technisch verständlich bleiben und gleichzeitig optisch wie eine
 Alle KPI-Werte werden alle paar Sekunden aktualisiert.  
 Das simuliert das Verhalten echter Netz-Telemetrie.
 
-### ✔ Trendcharts (Mo–So)
+### Trendcharts (Mo–So)
 Mehrere Diagramme:
 
 - Grid Stability  
