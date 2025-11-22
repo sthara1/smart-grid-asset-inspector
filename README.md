@@ -65,7 +65,7 @@ Ein kleiner Speicher-Monitor:
 - Lade-/Entladeleistung  
 - Zyklen des Tages
 
-### ✔ Renewable Index
+### Renewable Index
 Anteil erneuerbare Energien  
 -> visuell über einen Fortschrittsbalken.
 
