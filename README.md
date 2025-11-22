@@ -174,7 +174,7 @@ PowerApps (Custom Page)
 ✔ URL in PowerApps über Iframe Control einbetten
 ✔ Funktioniert ohne Anpassungen
 
-🎯 Warum dieses Projekt?
+Warum dieses Projekt?
 
 Ich wollte ein Dashboard entwickeln, das:
 
