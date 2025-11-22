@@ -78,7 +78,64 @@ Echtzeit-Benachrichtigungen über:
 
 ### Light/Dark Mode
 Wechselt automatisch nach Zeit  
+---
+EGS-Grid-App/
+│
+├── public/ # statische Dateien (Favicon usw.)
+│
+├── src/
+│ ├── App.tsx # Hauptkomponente (Dashboard)
+│ ├── App.css # komplettes Styling
+│ ├── main.tsx # React Einstiegspunkt
+│ └── assets/ # (optional) Bilder/Icons
+│
+├── index.html
+├── vite.config.ts
+├── package.json
+└── README.md
+
+
+Ich habe alles in einer Datei (`App.tsx`) gehalten, um es übersichtlich und einfach nachvollziehbar zu halten.  
+In einer größeren Anwendung würde man Panels und Komponenten natürlich aufsplitten.
+
+## Lokales Starten
+
+1. Abhängigkeiten installieren
+2. Dev-Server starten  
 -> zusätzlich manuell schaltbar.
+   
+3. App öffnen  
+http://localhost:5173
+
+
+## 🌐 Deployment
+Das Projekt ist Vite-basiert und kann problemlos über **Vercel**, **Netlify** oder **GitHub Pages** deployed werden.
+
+## 📌 Warum ich das gebaut habe
+Ich wollte ein Dashboard entwickeln, das:
+
+- visuell überzeugt  
+- technisch sauber aufgebaut ist  
+- klar strukturiert bleibt  
+- reale Energie-Themen widerspiegelt  
+- und später erweiterbar ist (z. B. Live-APIs, WebSockets, PowerApps Integration)
+
+Das Projekt eignet sich gut als Portfolio-Eintrag, weil man dabei mehrere Bereiche kombiniert:  
+UI, State-Management, Charts, Live-Simulation und ein durchdachtes Layout.
+
+## Ausblick
+Geplant sind:
+
+- Optional echte Live-Daten (z. B. ENTSO-E API)
+- Export-Funktion (Report)
+- Rechteverwaltung / Login
+- Einbindung als Custom Page in PowerApps
+
+---
+
+Wenn du Feedback oder Erweiterungen hast, freue ich mich.
+
+
 
 ## 📁 Projektstruktur
 
