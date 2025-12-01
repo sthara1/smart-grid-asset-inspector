@@ -219,19 +219,6 @@ KI-Prognosen (Weather-Based Forecasting)
 
 
 
-Lizenz
-
-MIT — frei für eigene Projekte und Weiterentwicklung.
-
-Feedback
-
-Wenn du Ideen oder Verbesserungsvorschläge hast – gerne melden!
-
-
----
-
-
-
 
 
 
