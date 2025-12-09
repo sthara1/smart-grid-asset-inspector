@@ -182,35 +182,6 @@ realistische Energiedaten simuliert
 
 visuell stark ist
 
-technisch klar strukturiert bleibt
-
-mit echten Systemen erweiterbar ist (APIs, WebSockets)
-
-sich als Portfolio-Projekt eignet
-
-Es verbindet UI-Design, State-Management, Echtzeit-Simulation und komplexes Layout in einer kompakten Demo.
-
- Ausblick (geplante Erweiterungen)
-
-Einbindung echter Live-Grid-Daten (ENTSO-E API)
-
-Benutzerrechte / Login
-
-Export-Funktion (PDF/CSV)
-
-Erweiterte Standortkarte (Leaflet/Mapbox)
-
-Automatischer Theme-Switch per Uhrzeit
-
-KI-Prognosen (Weather-Based Forecasting)
-
- Screenshots
-<img width="1392" height="917" alt="image" src="https://github.com/user-attachments/assets/d3e5c754-78d2-467e-8295-6cd33530a31a" />
-<img width="1472" height="605" alt="image" src="https://github.com/user-attachments/assets/74bdfa8b-9cd6-43fc-a222-2c3525d76f89" />
-<img width="978" height="837" alt="image" src="https://github.com/user-attachments/assets/44d103bd-dedb-4132-96f5-66eca7cac70e" />
-<img width="1036" height="919" alt="image" src="https://github.com/user-attachments/assets/9534c457-e162-4828-a6ad-0f6d7744728e" />
-<img width="1380" height="910" alt="image" src="https://github.com/user-attachments/assets/192b4136-2c1d-418b-b870-63c2842ded7f" />
-
 
 
 
